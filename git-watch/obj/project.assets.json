@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "git-tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/git-tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/git-tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "git-tools/1.0.0": {
+      "type": "project",
+      "path": "../git-tools/git-tools.csproj",
+      "msbuildProject": "../git-tools/git-tools.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "git-tools >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\i100635\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\work\\wooboo\\git-tools\\git-watch\\git-watch.csproj",
+      "projectName": "git-watch",
+      "projectPath": "D:\\work\\wooboo\\git-tools\\git-watch\\git-watch.csproj",
+      "packagesPath": "C:\\Users\\i100635\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\wooboo\\git-tools\\git-watch\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\i100635\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\work\\wooboo\\git-tools\\git-tools\\git-tools.csproj": {
+              "projectPath": "D:\\work\\wooboo\\git-tools\\git-tools\\git-tools.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

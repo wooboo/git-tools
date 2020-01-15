@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "git-start": {
+      "commandName": "Project",
+      "commandLineArgs": "12354 this is a name of the task",
+      "workingDirectory": "D:\\work\\tmp\\goo1",
+      "environmentVariables": {
+        "GITTOOLS_TASK_BRANCH_PREFIX": "users/piotrz/"
+      }
+    }
+  }
+}

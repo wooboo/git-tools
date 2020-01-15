@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>git_pr</RootNamespace>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>git-pr</ToolCommandName>
+    <PackageOutputPath>../nupkg</PackageOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\git-tools\git-tools.csproj" />
+  </ItemGroup>
+
+</Project>

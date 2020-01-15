@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>git-start</id>
+    <version>1.0.1</version>
+    <authors>git-start</authors>
+    <owners>git-start</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\work\wooboo\git-tools\git-start\obj\DotnetToolSettings.xml" target="tools\netcoreapp2.2\any\DotnetToolSettings.xml" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.dll" target="tools\netcoreapp2.2\any\git-start.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.deps.json" target="tools\netcoreapp2.2\any\git-start.deps.json" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.runtimeconfig.json" target="tools\netcoreapp2.2\any\git-start.runtimeconfig.json" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.pdb" target="tools\netcoreapp2.2\any\git-start.pdb" />
+  </files>
+</package>

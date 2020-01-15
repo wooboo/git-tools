@@ -1,0 +1,13 @@
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-pr.deps.json
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-pr.runtimeconfig.json
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-pr.runtimeconfig.dev.json
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-pr.dll
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-pr.pdb
+D:\work\wooboo\git-tools\git-pr\obj\Debug\netcoreapp2.2\git-pr.csprojAssemblyReference.cache
+D:\work\wooboo\git-tools\git-pr\obj\Debug\netcoreapp2.2\git-pr.AssemblyInfoInputs.cache
+D:\work\wooboo\git-tools\git-pr\obj\Debug\netcoreapp2.2\git-pr.AssemblyInfo.cs
+D:\work\wooboo\git-tools\git-pr\obj\Debug\netcoreapp2.2\git-pr.dll
+D:\work\wooboo\git-tools\git-pr\obj\Debug\netcoreapp2.2\git-pr.pdb
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-tools.dll
+D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\git-tools.pdb
+D:\work\wooboo\git-tools\git-pr\obj\Debug\netcoreapp2.2\git-pr.csproj.CopyComplete

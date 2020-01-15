@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "open-console": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\work\\B2C\\SCBDK.GMF"
+    }
+  }
+}

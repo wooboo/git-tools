@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "git-watch": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\work\\tmp\\goo1"
+    }
+  }
+}

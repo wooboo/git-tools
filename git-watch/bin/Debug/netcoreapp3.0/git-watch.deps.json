@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "git-watch/1.4.0": {
+        "dependencies": {
+          "git-tools": "1.4.0"
+        },
+        "runtime": {
+          "git-watch.dll": {}
+        }
+      },
+      "git-tools/1.4.0": {
+        "runtime": {
+          "git-tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "git-watch/1.4.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "git-tools/1.4.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

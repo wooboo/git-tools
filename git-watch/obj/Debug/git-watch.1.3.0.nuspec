@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>git-watch</id>
+    <version>1.3.0</version>
+    <authors>git-watch</authors>
+    <owners>git-watch</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\work\wooboo\git-tools\git-watch\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.0\any\DotnetToolSettings.xml" />
+    <file src="D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\publish\git-watch.dll" target="tools\netcoreapp3.0\any\git-watch.dll" />
+    <file src="D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\publish\git-watch.deps.json" target="tools\netcoreapp3.0\any\git-watch.deps.json" />
+    <file src="D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\publish\git-watch.runtimeconfig.json" target="tools\netcoreapp3.0\any\git-watch.runtimeconfig.json" />
+    <file src="D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\publish\git-watch.pdb" target="tools\netcoreapp3.0\any\git-watch.pdb" />
+    <file src="D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\publish\git-tools.dll" target="tools\netcoreapp3.0\any\git-tools.dll" />
+    <file src="D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\publish\git-tools.pdb" target="tools\netcoreapp3.0\any\git-tools.pdb" />
+  </files>
+</package>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>git-pr</id>
+    <version>1.3.0</version>
+    <authors>git-pr</authors>
+    <owners>git-pr</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\work\wooboo\git-tools\git-pr\obj\DotnetToolSettings.xml" target="tools\netcoreapp2.2\any\DotnetToolSettings.xml" />
+    <file src="D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\publish\git-pr.dll" target="tools\netcoreapp2.2\any\git-pr.dll" />
+    <file src="D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\publish\git-pr.deps.json" target="tools\netcoreapp2.2\any\git-pr.deps.json" />
+    <file src="D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\publish\git-pr.runtimeconfig.json" target="tools\netcoreapp2.2\any\git-pr.runtimeconfig.json" />
+    <file src="D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\publish\git-pr.pdb" target="tools\netcoreapp2.2\any\git-pr.pdb" />
+    <file src="D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\publish\git-tools.dll" target="tools\netcoreapp2.2\any\git-tools.dll" />
+    <file src="D:\work\wooboo\git-tools\git-pr\bin\Debug\netcoreapp2.2\publish\git-tools.pdb" target="tools\netcoreapp2.2\any\git-tools.pdb" />
+  </files>
+</package>

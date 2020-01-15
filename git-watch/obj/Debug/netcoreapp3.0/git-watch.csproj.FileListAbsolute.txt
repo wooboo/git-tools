@@ -1,0 +1,14 @@
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-watch.exe
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-watch.deps.json
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-watch.runtimeconfig.json
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-watch.runtimeconfig.dev.json
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-watch.dll
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-watch.pdb
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-tools.dll
+D:\work\wooboo\git-tools\git-watch\bin\Debug\netcoreapp3.0\git-tools.pdb
+D:\work\wooboo\git-tools\git-watch\obj\Debug\netcoreapp3.0\git-watch.csprojAssemblyReference.cache
+D:\work\wooboo\git-tools\git-watch\obj\Debug\netcoreapp3.0\git-watch.AssemblyInfoInputs.cache
+D:\work\wooboo\git-tools\git-watch\obj\Debug\netcoreapp3.0\git-watch.AssemblyInfo.cs
+D:\work\wooboo\git-tools\git-watch\obj\Debug\netcoreapp3.0\git-watch.csproj.CopyComplete
+D:\work\wooboo\git-tools\git-watch\obj\Debug\netcoreapp3.0\git-watch.dll
+D:\work\wooboo\git-tools\git-watch\obj\Debug\netcoreapp3.0\git-watch.pdb

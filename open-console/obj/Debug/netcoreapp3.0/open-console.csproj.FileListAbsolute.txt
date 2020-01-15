@@ -1,0 +1,11 @@
+D:\work\wooboo\git-tools\open-console\bin\Debug\netcoreapp3.0\open-console.exe
+D:\work\wooboo\git-tools\open-console\bin\Debug\netcoreapp3.0\open-console.deps.json
+D:\work\wooboo\git-tools\open-console\bin\Debug\netcoreapp3.0\open-console.runtimeconfig.json
+D:\work\wooboo\git-tools\open-console\bin\Debug\netcoreapp3.0\open-console.runtimeconfig.dev.json
+D:\work\wooboo\git-tools\open-console\bin\Debug\netcoreapp3.0\open-console.dll
+D:\work\wooboo\git-tools\open-console\bin\Debug\netcoreapp3.0\open-console.pdb
+D:\work\wooboo\git-tools\open-console\obj\Debug\netcoreapp3.0\open-console.csprojAssemblyReference.cache
+D:\work\wooboo\git-tools\open-console\obj\Debug\netcoreapp3.0\open-console.AssemblyInfoInputs.cache
+D:\work\wooboo\git-tools\open-console\obj\Debug\netcoreapp3.0\open-console.AssemblyInfo.cs
+D:\work\wooboo\git-tools\open-console\obj\Debug\netcoreapp3.0\open-console.dll
+D:\work\wooboo\git-tools\open-console\obj\Debug\netcoreapp3.0\open-console.pdb

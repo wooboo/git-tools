@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>git-start</id>
+    <version>1.4.0</version>
+    <authors>git-start</authors>
+    <owners>git-start</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\work\wooboo\git-tools\git-start\obj\DotnetToolSettings.xml" target="tools\netcoreapp2.2\any\DotnetToolSettings.xml" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.dll" target="tools\netcoreapp2.2\any\git-start.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.deps.json" target="tools\netcoreapp2.2\any\git-start.deps.json" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.runtimeconfig.json" target="tools\netcoreapp2.2\any\git-start.runtimeconfig.json" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-start.pdb" target="tools\netcoreapp2.2\any\git-start.pdb" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.Abstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.Abstractions.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Primitives.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Primitives.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\System.Runtime.CompilerServices.Unsafe.dll" target="tools\netcoreapp2.2\any\System.Runtime.CompilerServices.Unsafe.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-tools.dll" target="tools\netcoreapp2.2\any\git-tools.dll" />
+    <file src="D:\work\wooboo\git-tools\git-start\bin\Debug\netcoreapp2.2\publish\git-tools.pdb" target="tools\netcoreapp2.2\any\git-tools.pdb" />
+  </files>
+</package>

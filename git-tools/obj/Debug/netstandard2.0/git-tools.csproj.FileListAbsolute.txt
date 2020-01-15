@@ -1,0 +1,8 @@
+D:\work\wooboo\git-tools\git-tools\bin\Debug\netstandard2.0\git-tools.deps.json
+D:\work\wooboo\git-tools\git-tools\bin\Debug\netstandard2.0\git-tools.dll
+D:\work\wooboo\git-tools\git-tools\bin\Debug\netstandard2.0\git-tools.pdb
+D:\work\wooboo\git-tools\git-tools\obj\Debug\netstandard2.0\git-tools.csprojAssemblyReference.cache
+D:\work\wooboo\git-tools\git-tools\obj\Debug\netstandard2.0\git-tools.AssemblyInfoInputs.cache
+D:\work\wooboo\git-tools\git-tools\obj\Debug\netstandard2.0\git-tools.AssemblyInfo.cs
+D:\work\wooboo\git-tools\git-tools\obj\Debug\netstandard2.0\git-tools.dll
+D:\work\wooboo\git-tools\git-tools\obj\Debug\netstandard2.0\git-tools.pdb
